@@ -1,13 +1,26 @@
 # Text to Speech Converter 🎙️
 
-A simple, lightweight, and modern Text-to-Speech (TTS) web application built with HTML, CSS, and JavaScript. It allows users to type any text, select from a variety of available system voices, and listen to the speech instantly.
+A lightweight, modern, and responsive Text-to-Speech (TTS) web application built using HTML5, CSS3, and JavaScript (ES6+). This application leverages the browser's native Web Speech API to convert typed text into natural-sounding speech across multiple system voices.
 
-## Features ✨
-- **Real-time Speech Synthesis:** Convert any written text into spoken words using the browser's native Web Speech API.
-- **Voice Selection:** Choose from multiple available language and voice options supported by your system.
-- **Responsive & Modern UI:** Designed with a sleek gradient background, custom dropdown, and user-friendly interface.
+![Project Preview](https://text-to-speech-nine-psi.vercel.app/)
 
-## Tech Stack 🛠️
-- **HTML5** – Structure
-- **CSS3** – Styling & Layout
-- **JavaScript (ES6+)** – Speech Synthesis API logic
+## ✨ Features
+- **Real-time Text-to-Speech:** Instant speech synthesis powered by the Web Speech API.
+- **Voice Selection:** Dynamically loads available system voices for flexible voice customization.
+- **Modern & Responsive UI:** Clean gradient backdrop, sleek glassmorphism-inspired container, and custom select dropdown layout.
+- **Cross-browser Compatibility:** Works seamlessly across modern Web Speech API-supported browsers.
+
+## 🛠️ Tech Stack
+- **HTML5** – Structural markup and accessible controls.
+- **CSS3** – Layout styling, linear gradients, custom selectors, and flexbox design.
+- **JavaScript (ES6+)** – Asynchronous event handling and Web Speech API interaction.
+
+## 🚀 Live Demo & Repository
+- **Live Preview:** [httpstext-to-speech-nine-psi.vercel.app](https://text-to-speech-nine-psi.vercel.app/)
+- **GitHub Repository:** [httpsgithub.com/LST25-Shyam/Text-to-Speech](https://github.com/LST25-Shyam/Text-to-Speech)
+
+## 💻 Local Setup & Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/LST25-Shyam/Text-to-Speech.git](https://github.com/LST25-Shyam/Text-to-Speech.git)
